@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Hello world!");
     }
 
-    public static void test() {
+    public static void rafigLox() {
         System.out.println("test");
     }
 }
