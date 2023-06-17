@@ -6,6 +6,6 @@ public class Main {
     }
 
     public static void rafigLox() {
-        System.out.println("dont fuck your dog");
+        System.out.println("test");
     }
 }
